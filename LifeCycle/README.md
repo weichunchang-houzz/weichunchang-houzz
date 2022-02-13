@@ -7,3 +7,5 @@ Using 7-day post delivery attribution while avoid overcount if another campaign 
 
 Used package:
 `from scipy.stats import ttest_ind` for p-value calculation
+
+[Summary spreadsheet](https://docs.google.com/spreadsheets/d/1cZwGcpeNdezZQ4B254Z6pRHpyk9ZULPASUWI4x1nvzE/edit?usp=sharing)
