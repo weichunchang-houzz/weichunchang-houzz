@@ -9,6 +9,7 @@
 - [Lifecycle DS Knowledge by Yuanyuan](https://docs.google.com/document/d/1i8SOGX-zHxGEoXERY0PW8i1ejcqSarshhb-4O1agrt8/edit?usp=sharing)
 - [Marketing Emails by Dong](https://docs.google.com/spreadsheets/d/1mkDA89a3qtafmoBIHkyGp53Ho_Sqfz_H5QJhLHHxiFM/edit?usp=sharing)
 - [Lifecycle Walk Through](https://docs.google.com/document/d/1pv6KUDlVTFu32EaGqK4psw_86mjL2zv5wyKKgP3KdyA/edit?usp=sharing)
+- [Email Subscription Attribution](https://docs.google.com/spreadsheets/d/1rwntT8haN-9ifCsVj6x_DGEEj1PygV0yqI3Ls7gJK7Q/edit?usp=sharing)
 
 #### Reporting
 Requirements:
